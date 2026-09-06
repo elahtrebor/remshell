@@ -5,7 +5,7 @@ Note this requires ssh keys being installed locally on windows to allow for seam
 To install SSH keys on windows type:  ssh-keygen
 Then distribute the key to the far end .ssh/authorized_keys file.
 
-
+<pre>
 Example:
 
 powershell -f remshell.ps1
