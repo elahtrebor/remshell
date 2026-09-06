@@ -22,7 +22,7 @@ C:\Users\myuser>powershell -f remshell.ps1
 REMOTE SHELL RESOURCE V1.0
 COMMANDS/Examples:
 REMOTE_HOST=192.168.0.32........Assigns remote
-REMOTE_USER=rhale...............Assigns remote user
+REMOTE_USER=myusername...............Assigns remote user
 local cmd || remote cmd.........runs local, pipes stdout to remote
 || remote cmd...................runs command directly on remote
 exit............................exits shell
